@@ -1,9 +1,9 @@
 Thesis Title: FLPneXAINet: Federated Deep Learning and Explainable AI Approaches for Pneumonia Prediction on GAN-Augmented Dataset.
 
-Author Name: Shuvo Biswas
-Department: Information and Communication Technology (ICT)
-Faculty: Faculty of Engineering
-Abbreviation for degree as given in the University calendar: M.Sc. (Engg.)
+Author Name: Shuvo Biswas,
+Department: Information and Communication Technology,
+Faculty: Faculty of Engineering,
+Abbreviation for degree as given in the University calendar: M.Sc. (Engg.),
 MAWLANA BHASHANI SCIENCE AND TECHNOLOGY UNIVERSITY, Tangail-1902, Bangladesh.
 Email: shuvo.ict13@gmail.com
 
